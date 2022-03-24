@@ -57,6 +57,13 @@ h2 {
     background-size: cover;
 }
 
+h4{
+    font-family: 'Montserrat', sans-serif; 
+    color: rgb(202, 165, 170);
+    padding:50px;
+    font-size: 56px;
+}
+
 /* footer start */
 .container{
     max-width:800px;

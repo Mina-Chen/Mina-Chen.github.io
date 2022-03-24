@@ -64,6 +64,18 @@ h4{
     font-size: 56px;
 }
 
+h6{
+    color: rgb(202, 165, 170);
+    padding: 20px;
+}  
+
+.wedding{
+    height: 460px;
+    width: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* footer start */
 .container{
     max-width:800px;

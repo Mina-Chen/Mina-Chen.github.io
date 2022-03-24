@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.speakers-cards{
+    justify-content: space-between;
+} 
+
+.jumbotron{
+    background-image: url(../img/wed-cover.jpg);
+    height: 840px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(80%)
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+h3{
+    font-size: 56px;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-style: italic;
+    color: rgb(202, 165, 170);
+    padding:50px;
+}
+
+h2 {
+    font-size: 56px;
+    color: lightskyblue;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-style: italic;
+    margin-top: 30px;
+    color: rgb(202, 165, 170);
+}
+
+.mb-4 {
+     padding-left: 20px;
+}
+
+.my-col1{
+   height: 600px;
+  font-size: x-large;
+  margin-left: 20px;
+  text-align: justify;
+}
+
+.my-col2{
+    background-image: url(../img/wed21.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* footer start */
+.container{
+    max-width:800px;
+    background-color: whitesmoke;
+    /* margin: auto; */
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer{
+    background-color: whitesmoke;
+    padding: 70px 0;
+}
+
+.footer-col{
+    width: 50%; 
+}
+
+.footer-col>ul>li>a {
+    font-size: 18px;
+    color: rgb(87, 82, 82);
+    text-transform: capitalize;
+    position: relative;
+}
+
+.fa-brands {
+    font-size: 23px;
+    width: 3rem;
+    height: 3rem;  
+    float: right; 
+    color: rgb(87, 82, 82);
+} 
+/* footer end */

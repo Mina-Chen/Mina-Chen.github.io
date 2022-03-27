@@ -61,24 +61,17 @@ h6{
     font-size: 20px;
 }
 
-
 .text{
     text-align: center;
 }
 
 .wedding{
-    height: 470px;
-    width: 500px;
+    height: 500px;
+    width: 400px;
     background-repeat: no-repeat;
     background-size: cover;
+    margin-left: 50px;
 }
-
-/* footer start */
-/* .container{
-    max-width:800px;
-    background-color: whitesmoke;
-    /* margin: auto; */
-} */
 
 .row{
     display: flex;

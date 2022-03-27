@@ -20,6 +20,13 @@
     font-size: xx-large;
 }
 
+h4{
+    font-family: 'Montserrat', sans-serif; 
+    color: rgb(202, 165, 170);
+    padding:50px;
+    font-size: 56px;
+}
+
 h3{
     font-size: 56px;
     text-align: center;
@@ -27,7 +34,9 @@ h3{
     font-style: italic;
     color: rgb(202, 165, 170);
     padding:50px;
+    /* background-color: whitesmoke */
 }
+
 
 h2 {
     font-size: 56px;
@@ -39,49 +48,37 @@ h2 {
     color: rgb(202, 165, 170);
 }
 
-.mb-4 {
-     padding-left: 20px;
-}
-
-.my-col1{
-   height: 600px;
-  font-size: x-large;
-  margin-left: 20px;
-  text-align: justify;
-}
-
-.my-col2{
-    background-image: url(../img/wed21.jpg);
-    height: 600px;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-h4{
-    font-family: 'Montserrat', sans-serif; 
-    color: rgb(202, 165, 170);
-    padding:50px;
-    font-size: 56px;
-}
-
 h6{
     color: rgb(202, 165, 170);
     padding: 20px;
 }  
 
+.mb-4 {
+     padding-left: 20px;
+}
+
+.d-sm-flex{
+    font-size: 20px;
+}
+
+
+.text{
+    text-align: center;
+}
+
 .wedding{
-    height: 460px;
+    height: 470px;
     width: 500px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 /* footer start */
-.container{
+/* .container{
     max-width:800px;
     background-color: whitesmoke;
     /* margin: auto; */
-}
+} */
 
 .row{
     display: flex;

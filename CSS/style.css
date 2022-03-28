@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand {
+    font-size: xx-large;
+}
+
+h4 {
+    font-family: 'Montserrat', sans-serif; 
+    color: rgb(202, 165, 170);
+    padding:50px;
+    font-size: 56px;
+}
+
+h3 {
+    font-size: 56px;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-style: italic;
+    color: rgb(202, 165, 170);
+    padding:50px;
+    /* background-color: whitesmoke */
+}
+
+h2 {
+    font-size: 56px;
+    color: lightskyblue;
+    text-align: center;
+    font-family: 'Kaushan Script', cursive;
+    font-style: italic;
+    margin-top: 30px;
+    color: rgb(202, 165, 170);
+}
+
+h6 {
+    color: rgb(202, 165, 170);
+    padding: 20px;
+}  
+
+.mb-4 {
+     padding-left: 20px;
+}
+
+.d-sm-flex {
+    font-size: 20px;
+}
+
+.text {
+    text-align: center;
+}
+
+.wedding {
+    height: 500px;
+    width: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 50px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+ul {
+    list-style: none;
+}
+.footer {
+    background-color: whitesmoke;
+    padding: 70px 0;
+}
+
+.footer-col {
+    width: 50%; 
+}
+
+.footer-col>ul>li>a {
+    font-size: 18px;
+    color: rgb(87, 82, 82);
+    text-transform: capitalize;
+    position: relative;
+}
+
+.fa-brands {
+    font-size: 23px;
+    width: 3rem;
+    height: 3rem;  
+    float: right; 
+    color: rgb(87, 82, 82);
+} 
+/* footer end */

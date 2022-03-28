@@ -1,33 +1,21 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.speakers-cards{
-    justify-content: space-between;
-} 
-
-.jumbotron{
-    background-image: url(../img/wed-cover.jpg);
-    height: 840px;
-    background-repeat: no-repeat;
-    background-size: cover;
-    filter: brightness(80%)
 }
 
 .navbar-brand {
     font-size: xx-large;
 }
 
-h4{
+h4 {
     font-family: 'Montserrat', sans-serif; 
     color: rgb(202, 165, 170);
     padding:50px;
     font-size: 56px;
 }
 
-h3{
+h3 {
     font-size: 56px;
     text-align: center;
     font-family: 'Kaushan Script', cursive;
@@ -36,7 +24,6 @@ h3{
     padding:50px;
     /* background-color: whitesmoke */
 }
-
 
 h2 {
     font-size: 56px;
@@ -48,7 +35,7 @@ h2 {
     color: rgb(202, 165, 170);
 }
 
-h6{
+h6 {
     color: rgb(202, 165, 170);
     padding: 20px;
 }  
@@ -57,15 +44,15 @@ h6{
      padding-left: 20px;
 }
 
-.d-sm-flex{
+.d-sm-flex {
     font-size: 20px;
 }
 
-.text{
+.text {
     text-align: center;
 }
 
-.wedding{
+.wedding {
     height: 500px;
     width: 400px;
     background-repeat: no-repeat;
@@ -73,19 +60,19 @@ h6{
     margin-left: 50px;
 }
 
-.row{
+.row {
     display: flex;
     flex-wrap: wrap;
 }
-ul{
+ul {
     list-style: none;
 }
-.footer{
+.footer {
     background-color: whitesmoke;
     padding: 70px 0;
 }
 
-.footer-col{
+.footer-col {
     width: 50%; 
 }
 

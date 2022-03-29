@@ -58,10 +58,10 @@ h6 {
 }
 
 .carousel-inner {
-   filter: brightness(80%);
-   opacity: 0.7;
+    opacity: 0.7;
 }
 .carousel-inner:hover {
+    filter: brightness(80%);
     opacity: 1;
 }
 

@@ -42,6 +42,7 @@ h6 {
 
 .mb-4 {
      padding-left: 20px;
+     font-family: Arial, Helvetica, sans-serif;
 }
 
 .d-sm-flex {
@@ -50,6 +51,18 @@ h6 {
 
 .text {
     text-align: center;
+}
+
+.carousel-caption {
+    z-index: 10;
+}
+
+.carousel-inner {
+    opacity: 0.7;
+}
+.carousel-inner:hover {
+    filter: brightness(80%);
+    opacity: 1;
 }
 
 .wedding {
@@ -64,9 +77,11 @@ h6 {
     display: flex;
     flex-wrap: wrap;
 }
+
 ul {
     list-style: none;
 }
+
 .footer {
     background-color: whitesmoke;
     padding: 70px 0;
@@ -90,4 +105,3 @@ ul {
     float: right; 
     color: rgb(87, 82, 82);
 } 
-/* footer end */

@@ -7,6 +7,7 @@
 .navbar{
     background-color: lightgray;
 }
+
 .navbar-brand {
     font-size: xx-large;
 }
@@ -31,8 +32,7 @@ h3 {
     font-family: 'Kaushan Script', cursive;
     font-style: italic;
     color: rgb(202, 165, 170);
-    padding:50px;
-   
+    padding:50px;   
 }
 
 h2 {
@@ -58,6 +58,7 @@ h6 {
 body, html {
     height: 100%;
 }
+
 .parallax {
     /* The image used */
     background-image: url('../img/wed-abt.jpeg');
@@ -70,12 +71,6 @@ body, html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
-
-@media only screen and (max-device-width: 1366px) {
-    .parallax {
-      background-attachment: scroll;
-    }
 }
 
 .mb-4 {
@@ -98,8 +93,8 @@ body, html {
 .carousel-inner {
     opacity: 0.7;
 }
+
 .carousel-inner:hover {
-    filter: brightness(80%);
     opacity: 1;
 }
 

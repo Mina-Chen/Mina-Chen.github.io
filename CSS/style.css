@@ -45,6 +45,11 @@ h2 {
     color: rgb(202, 165, 170);
 }
 
+h5 {
+    color: rgb(202, 165, 170);
+    padding: 20px;
+} 
+
 h6 {
     color: rgb(202, 165, 170);
     padding: 20px;
@@ -98,12 +103,16 @@ body, html {
     opacity: 1;
 }
 
+iframe{
+    padding: 20px;
+}
+
 .wedding {
-    height: 500px;
-    width: 400px;
+    height: 510px;
+    width: 410px;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-left: 50px;
+    padding: 20px;
 }
 
 .row {

@@ -73,11 +73,11 @@ body, html {
     background-size: cover;
 }
 
-@media only screen and (max-device-width: 1366px) {
+/* @media only screen and (max-device-width: 1366px) {
     .parallax {
       background-attachment: scroll;
     }
-}
+} */
 
 .mb-4 {
      padding-left: 20px;

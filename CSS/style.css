@@ -8,6 +8,13 @@
     font-size: xx-large;
 }
 
+a{
+ font-size: 18px;
+ color: rgb(87, 82, 82);
+ font-weight: 600; 
+ text-transform: capitalize;
+}
+
 h4 {
     font-family: 'Montserrat', sans-serif; 
     color: rgb(202, 165, 170);
@@ -22,7 +29,7 @@ h3 {
     font-style: italic;
     color: rgb(202, 165, 170);
     padding:50px;
-    /* background-color: whitesmoke */
+   
 }
 
 h2 {

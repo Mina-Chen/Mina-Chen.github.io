@@ -5,7 +5,7 @@
 }
 
 .navbar{
-    background-color: rgba(146, 137, 137, 0.158)
+    background-color: lightgray;
 }
 .navbar-brand {
     font-size: xx-large;
@@ -125,7 +125,7 @@ ul {
 }
 
 .footer {
-    background-color: rgba(146, 137, 137, 0.158);
+    background-color: lightgray;
     padding: 70px 0;
 }
 
